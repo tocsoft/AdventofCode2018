@@ -6,8 +6,8 @@ namespace AdventOfCode2018
     {
         static void Main(string[] args)
         {
-            Day1.Processor.RunPuzzle1();
-            Day1.Processor.RunPuzzle2();
+            Day2.Processor.RunPuzzle1();
+            Day2.Processor.RunPuzzle2();
         }
     }
 }
